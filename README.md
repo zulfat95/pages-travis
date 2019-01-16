@@ -1,3 +1,1 @@
-# Project Sample [![Build Status](https://travis-ci.org/tech-itpark/pages.svg?branch=master)](https://travis-ci.org/tech-itpark/pages) [![codecov](https://codecov.io/gh/tech-itpark/pages/branch/master/graph/badge.svg)](https://codecov.io/gh/tech-itpark/pages)
-
-[Project Link](https://tech-itpark.github.io/pages/)
+# My project url [![Build Status](https://travis-ci.com/zulfat95/pages-travis.svg?branch=master)](https://travis-ci.com/zulfat95/pages-travis)
