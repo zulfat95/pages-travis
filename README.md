@@ -1,1 +1,1 @@
-# My project url  [![Build Status](https://travis-ci.com/zulfat95/pages-travis.svg?branch=master)](https://travis-ci.com/zulfat95/pages-travis)
+# My project url  [![Build Status](https://travis-ci.com/zulfat95/pages-travis.svg?branch=master)](https://travis-ci.com/zulfat95/pages-travis) [![codecov](https://codecov.io/gh/zulfat95/pages-travis/branch/master/graph/badge.svg)](https://codecov.io/gh/zulfat95/pages-travis)
