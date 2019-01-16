@@ -5,7 +5,7 @@
   "scripts": {
     "serve": "browser-sync start -s \"src\" -f \".\"",
     "test": "jest",
-    "coverage": "jest --coverage --collectCoverageFrom \"src/js/**/*.js\""
+    "coverage": "jest --coverage"
   },
   "babel": {
     "presets": [
